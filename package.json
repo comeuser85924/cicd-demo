@@ -1,0 +1,18 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "ci/cd first practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test" : "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
